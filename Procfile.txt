@@ -1,1 +1,2 @@
-web: target/universal/stage/bin/google-oauth2-sample -Dhttp.port=${PORT} -DapplyEvolutions.default=true
+web: target/universal/stage/bin/memo_app
+DapplyEvolutions.default=true
