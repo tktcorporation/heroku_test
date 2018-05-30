@@ -1,4 +1,4 @@
-name := """Memo_app"""
+name := """test-heroku-helloworld"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
