@@ -1,6 +1,9 @@
 # https://www.playframework.com/documentation/latest/Configuration
 #
-# slick.dbs {
+play.crypto.secret="changeme"
+play.crypto.secret="HwfYmvKPEJx<giUCRJE48RSHbH@7q/qA?BRqP1M<pbzVhJ/B=z0l:`5Hl3SP/5xn"
+
+slick.dbs {
     default {
         profile = "slick.jdbc.MySQLProfile$"
         db {
